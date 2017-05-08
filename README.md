@@ -1,5 +1,7 @@
 # shortener-server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lgaticaq/shortener-server.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/shortener-server.svg?style=flat-square)](https://www.npmjs.com/package/shortener-server)
 [![dependency Status](https://img.shields.io/david/lgaticaq/shortener-server.svg?style=flat-square)](https://david-dm.org/lgaticaq/shortener-server#info=dependencies)
 [![devDependency Status](https://img.shields.io/david/dev/lgaticaq/shortener-server.svg?style=flat-square)](https://david-dm.org/lgaticaq/shortener-server#info=devDependencies)
